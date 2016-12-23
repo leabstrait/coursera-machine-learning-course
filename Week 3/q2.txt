@@ -1,0 +1,9 @@
+You are training a classification model with logistic regression. Which of the following statements are true? Check all that apply.
+
+-Adding many new features to the model makes it more likely to overfit the training set.
+
+Adding a new feature to the model always results in equal or better performance on examples not in the training set.
+
+Introducing regularization to the model always results in equal or better performance on the training set.
+
+Introducing regularization to the model always results in equal or better performance on examples not in the training set. 
